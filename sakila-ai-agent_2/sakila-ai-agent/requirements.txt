@@ -1,0 +1,10 @@
+streamlit>=1.40
+plotly>=5.20
+pandas>=2.0
+numpy>=1.24
+scipy>=1.10
+SQLAlchemy>=2.0
+PyMySQL>=1.1          # only needed when DB_BACKEND=mysql
+python-dotenv>=1.0
+groq>=0.9
+pytest>=8.0
